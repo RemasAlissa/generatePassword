@@ -6,14 +6,22 @@ npm start
 ```
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+# Password Generator
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+A simple and modern password generator that creates random, secure passwords. This project is built using HTML, CSS, and JavaScript, making it lightweight and easy to use.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Features
 
-Happy Coding!
+- Generates two random passwords at a time.
+- Uses a wide range of characters including uppercase, lowercase, numbers, and special symbols.
+- User-friendly interface with a modern design.
+
+## Demo
+
+To see the password generator in action, open the `index.html` file in your web browser.
+
+## Installation
+
+1. Clone the repository or download the files.
+2. Ensure you have a modern web browser.
+3. Open the `index.html` file in your browser.
